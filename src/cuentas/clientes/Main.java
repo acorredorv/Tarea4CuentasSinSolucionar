@@ -14,7 +14,11 @@ public class Main {
     public Main() {
         // Constructor vacío
     }
-
+    /**
+     * Método principal que inicia la ejecución del programa.
+     * @param args Argumentos de línea de comandos (no se usan en este caso)
+     * @param cantidad Valor float adicional (no se usa en este método)
+     */
     public static void main(String[] args, float cantidad) {
         Cuenta cuenta1 = new Cuenta("Rafael Nadal Parera", "1000-2365-85-1230456789", 2500.0, 0.0);
         
