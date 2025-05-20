@@ -1,4 +1,14 @@
 package cuentas.clientes;
+/**
+ * Clase principal que inicia la aplicación.
+ * <p>
+ * Contiene el método main que sirve como punto de entrada
+ * para la ejecución del programa.
+ * </p>
+ * 
+ * @author Aleex
+ * @version 1.0
+ */ 
 
 public class Main {
     public Main() {
